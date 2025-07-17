@@ -9,11 +9,11 @@ The was to see if there was any correlation between the use of the bike shares a
 
 ## Process
 
-### At first I wanted to do the bike stations in Medina, Saudi Arabia because I assumed there would be a pattern with religious observances or even days of the week (like Fridays) but then I discovered that there is no Yelp or Foursquare data from Saudi Arabia and they are primarily North American based apps. 
+At first I wanted to do the bike stations in Medina, Saudi Arabia because I assumed there would be a pattern with religious observances or even days of the week (like Fridays) but then I discovered that there is no Yelp or Foursquare data from Saudi Arabia and they are primarily North American based apps. 
 
-### So, I picked a random city in the USA and landed on Bentonville, Arkansas which turned out to be the headquarters of Walmart. 
+So, I picked a random city in the USA and landed on Bentonville, Arkansas which turned out to be the headquarters of Walmart. 
 
-## So I requested the data from CityBikes, which was in .JSON format, looked through to find the details for Bentonville, put it into a DataFrame. Cleaned it up and got the location data for each bike station. Did similar with the Yelp and Foursquare API, but instead got the location data for restaurants that were close to each bike station. 
+So I requested the data from CityBikes, which was in .JSON format, looked through to find the details for Bentonville, put it into a DataFrame. Cleaned it up and got the location data for each bike station. Did similar with the Yelp and Foursquare API, but instead got the location data for restaurants that were close to each bike station. 
 
 ### Joined the Yelp and Foursquare location data with the CityBikes, and realized that not much would be gained by combining the two (since it was the same bike station data with some different restaurants). So I first combined the Bentonville data with the Foursquare data, then combined the same Bentonville data with the Yelp data. Plotted a few graphs to see if anything was obvious. Nothing stuck out other than plotting the empty bikes and free bike plots with the distance to the restaurant from the bike station showed roughly opposite results. The further restaurants had fewer free bikes than the closer restaurants, and vice versa.
 
