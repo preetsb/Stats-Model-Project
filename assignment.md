@@ -1,6 +1,6 @@
 ## Part 1: Connecting to CityBikes API
 
-For this part, we will work with an API that you have not seen before: [CityBikes](https://citybik.es/) 
+For this part, we will work with an API that you have not seen before: [CityBikes](https://cityb ik.es/) 
 
 Citybikes is an API that provides bike sharing data for apps, research and projects.
 CityBikes supports more than 400 cities and the Citybikes API is an interesting dataset for building bike-sharing transportation projects.

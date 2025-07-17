@@ -1,0 +1,39 @@
+,name,address,categories,latitude,longitude,fsq_id
+0,Chick-fil-A,"209 S Walton Blvd, Bentonville, AR 72712","['Fried Chicken Joint', 'American Restaurant', 'Fast Food Restaurant']",36.370851,-94.220982,4bb0c114f964a520085a3ce3
+1,The Pedaler S Pub,"410 SW A St, Bentonville, AR 72712","['Bar', 'Pizzeria']",36.367122,-94.210646,53cea5ae498e6131500c1fd9
+2,Crepes Paulette,"100 SW 8th St (SW A Street), Bentonville, AR 72712","['French Restaurant', 'Sandwich Spot']",36.364644,-94.209418,5862a1f1158b96178898ea98
+3,Wendy's,"814 S Walton Blvd, Bentonville, AR 72712","['Burger Joint', 'Fast Food Restaurant']",36.363141,-94.219442,4b8dbf13f964a520bb0b33e3
+4,Bike Rack Brewing Co.,"410 SW A St, Bentonville, AR 72712","['Bar', 'Brewery', 'Restaurant']",36.36723,-94.210696,5441b307498e6bd51dec7685
+5,Bentonville Brewing Company,"1000 SE 5th St, Bentonville, AR 72712","['Bar', 'Brewery']",36.356525,-94.221153,5570cc25498e84218b1f2db9
+6,Starbucks,"1101 S Walton Blvd, Bentonville, AR 72712",['Coffee Shop'],36.360378,-94.215654,653bb1fabb9b727ba56a0e0a
+7,Marcitos,"706 S Main St (8th Street), Bentonville, AR 72712",['Mexican Restaurant'],36.364665,-94.209342,4b9e6648f964a52041e036e3
+8,Taco Bell,"102 S Walton Blvd, Bentonville, AR 72712","['Fast Food Restaurant', 'Mexican Restaurant', 'Taco Restaurant']",36.372173,-94.222018,4ba15e03f964a520a4b037e3
+9,Little Caesars Pizza,"206 SW 14th St, Bentonville, AR 72712","['Pizzeria', 'Fast Food Restaurant']",36.357282,-94.211768,4be0586ccb81c9b63283658b
+10,Casey's General Store,"900 SW 14th St, Bentonville, AR 72712","['Pizzeria', 'Convenience Store', 'Fuel Station']",36.357654,-94.221413,4e29fa53ae605c533a27d226
+11,Frozen Tung,"604 SW A St (By 8th St.), Bentonville, AR 72712","['Ice Cream Parlor', 'Restaurant']",36.365694,-94.210502,4c3f7b8bda3dc9289ff1c5b9
+12,Panda Express,"319 S Walton Blvd, Bentonville, AR 72712","['Chinese Restaurant', 'Fast Food Restaurant']",36.369602,-94.221306,4e8f2ec129c2117fa34f4ffa
+13,Salsarita's Fresh Mexican Grill,"702 SW 8th St, Bentonville, AR 72712",['Mexican Restaurant'],36.364849,-94.217657,3a8568fed73845a265a80346
+14,Starbucks GPC HQ,"508 SW 8th St, Bentonville, AR 72712","['Coffee Shop', 'Restaurant']",36.364878,-94.214627,4f2ae281e4b05997ed84c6c9
+15,Sonic Drive-In,"208 S Walton Blvd, Bentonville, AR 72712","['American Restaurant', 'Fast Food Restaurant']",36.370993,-94.222033,4bd03c94046076b0cc8a6f71
+16,Old Tyme Donuts,"1101 S Walton Blvd, Bentonville, AR 72712","['Bagel Shop', 'Restaurant']",36.360245,-94.215706,4d135b1b2e583704ab65ebd1
+17,Larissa's Little Bakery,"720 SW A St, Bentonville, AR 72712","['Bakery', 'Restaurant']",36.364825,-94.210101,a3f75e6a37d34ee712b8321e
+18,Wild Grains Gluten Free Bakery,"1111 S Walton Blvd, Bentonville, AR 72712","['Bakery', 'Restaurant']",36.359611,-94.215114,57472b62498e39394b61dae0
+19,TCBY,"1108 S Walton Blvd, Bentonville, AR 72712",['Ice Cream Parlor'],36.359169,-94.216067,4f32714a19836c91c7d840c0
+20,Cacahuzintle,"715 SW A St, Bentonville, AR 72712",['Food Stand'],36.364499,-94.209951,5bd1f823cbcdee002c09f924
+21,King Burrito,"1120 S Walton Blvd, Bentonville, AR 72712",['Burrito Restaurant'],36.358481,-94.21635,55af031b498ef5a31bfdf6b6
+22,MELD Kitchen + Sandwich Bar,"1120 S Walton Blvd, Bentonville, AR 72712",['Dining and Drinking'],36.35846,-94.216426,5af1dabe95d9860039bc926b
+23,The Purple Banana,"900 S Main St, Bentonville, AR 72712",['Taco Restaurant'],36.362983,-94.209681,e268ff3c2f954b307c89820a
+24,PX Asian Food Truck,"404 SW A St, Bentonville, AR 72712","['Bubble Tea Shop', 'Chinese Restaurant']",36.367812,-94.210578,3ba5247b52914d672ac1c7a6
+25,Trickdilly,"501 SW A St, Bentonville, AR 72712",['Food Truck'],36.3667,-94.209723,53bc1f30498e09a2d6403c79
+26,Pho Thanh,"1204 S Walton Blvd, Bentonville, AR 72712",['Vietnamese Restaurant'],36.358574,-94.215107,5c3b88204b78c5002c8bf1a7
+27,Night Owl Tavern,"401 SW A St, Bentonville, AR 72712","['Bar', 'Restaurant']",36.367719,-94.210021,5f5055f8a6f92e0a0d296713
+28,Trash Creamery,"401 SW A St, Bentonville, AR 72712","['Ice Cream Parlor', 'Restaurant']",36.367784,-94.210008,5d65ec384d67cb00086168d8
+29,Walmart Bakery,"406 S Walton Blvd, Bentonville, AR 72712",['Bakery'],36.368196,-94.224902,599281f259fe5c55c9d8ad7f
+30,Domino's Pizza,"406 S Walton Blvd, Bentonville, AR 72712","['Pizzeria', 'Fast Food Restaurant']",36.368175,-94.224978,5f5bdca6c23cdf2dc1258501
+31,Tree House,"310 S Main St, Bentonville, AR 72712",['Bar'],36.36879,-94.209229,615a0801e9afed76e2255910
+32,Grounds For Thought,"405 S Main St, Bentonville, AR 72712","['Burger Joint', 'Coffee Shop', 'American Restaurant']",36.367764,-94.208284,4f3245bb19836c91c7c74ec9
+33,Cycle Path Cafe,"405 S Main St, Bentonville, AR 72712","['Café', 'Coffee Shop', 'Deli']",36.367828,-94.208271,5189472e498e350d3bcc16da
+34,Rolling Taco Mexican Food,"410 SW 8th St, Bentonville, AR 72712",['Restaurant'],36.364475,-94.213412,6dc723777e11ddb22405b392
+35,The Witching Hour,"704 SW A St, Bentonville, AR 72712",['Burger Joint'],36.365047,-94.210633,10e412a4215740372c7e2891
+36,The HUB Bike Lounge,"410 SW A St, Bentonville, AR 72712","['Cocktail Bar', 'Lounge', 'Cafe, Coffee, and Tea House']",36.367122,-94.210646,d502368115b345d94b0eae48
+37,Spud Doctors,"903 SW A St, Bentonville, AR 72712",['Restaurant'],36.363291,-94.210123,88f1fb8d0d7e4c8622f9aa8d
