@@ -11,7 +11,7 @@ The was to see if there was any correlation between the use of the bike shares a
 
 At first I wanted to do the bike stations in Medina, Saudi Arabia because I assumed there would be a pattern with religious observances or even days of the week (like Fridays) but then I discovered that there is no Yelp or Foursquare data from Saudi Arabia and they are primarily North American based apps. 
 
-So, I picked a random city in the USA and landed on Bentonville, Arkansas which turned out to be the headquarters of Walmart. 
+I picked a random city in the USA and landed on Bentonville, Arkansas which turned out to be the headquarters of Walmart. 
 
 So I requested the data from CityBikes, which was in .JSON format, looked through to find the details for Bentonville, put it into a DataFrame. Cleaned it up and got the location data for each bike station. Did similar with the Yelp and Foursquare API, but instead got the location data for restaurants that were close to each bike station. 
 
@@ -20,7 +20,7 @@ Joined the Yelp and Foursquare location data with the CityBikes, and realized th
 ## Results
 The quality of the APIs were similar but Foursquare does have more detailed data since they crowdsource from it's Swarm app where you 'check-in'. Yelp, since it is primarily used for reviewing places, has less detailed data but it does have better categories than Foursquare. Foursquare appears to classify anywhere with food as a restaurant (including bakeries and cafes) while Yelp only classifies as restaurants as places with a sit-down or takeout option for food. 
 
-Yelp is more up-to-date since it is used more than Foursquare, but Foursquare has more detailed location data. Either way it can not provide any truly useful insights in this case without more information. The correlation between distance and bike usage was low. 
+Yelp is more up-to-date since it is used more than Foursquare, but Foursquare has more detailed location data. Either way it can not provide any truly useful insights in this case without more information. The relatively simple Linear Regression model used did not show much of a correlation between distance and bike usage.  
 
 ## Challenges 
  There were the usual challenges that come with a project like this while learning. My first parsing of the CityBikes data did not provide distance from _each_ bike station but just gave too much information because it was giving me distance from every bike station. With some assistance I fixed that got more useful information. 
@@ -31,4 +31,4 @@ Yelp is more up-to-date since it is used more than Foursquare, but Foursquare ha
 
 
 ## Future Goals
-If I had more time I would get information for different hours and different days. Are there more bikes available during the day or evening? Are there more bikes being used over the weekend? Was there a major event happening that people would prefer to bike to instead of drive? 
+If I had more time I would get information for different hours and different days and build a less simple model. Are there more bikes available during the day or evening? Are there more bikes being used over the weekend? Was there a major event happening that people would prefer to bike to instead of drive? 
